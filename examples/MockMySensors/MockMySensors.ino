@@ -34,7 +34,6 @@
 //#define MY_RADIO_NRF5_ESB
 //#define MY_RADIO_RFM69
 //#define MY_RADIO_RFM95
-//#define MY_PJON
 
 #define MY_NODE_ID 254
 
