@@ -53,6 +53,7 @@
 #endif
 
 // mapping
+#define snprintf_P snprintf
 #define vsnprintf_P vsnprintf
 #define strncpy_P strncpy
 #define printf_P printf

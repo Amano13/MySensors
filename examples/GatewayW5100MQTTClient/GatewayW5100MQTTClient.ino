@@ -65,7 +65,6 @@
 #define MY_RADIO_RF24
 //#define MY_RADIO_RFM69
 //#define MY_RADIO_RFM95
-//#define MY_PJON
 
 #define MY_GATEWAY_MQTT_CLIENT
 

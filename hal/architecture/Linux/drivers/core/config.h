@@ -39,9 +39,7 @@ struct config {
 	char *soft_hmac_key;
 	char *soft_serial_key;
 	char *aes_key;
-};
-
-extern struct config conf;
+} conf;
 
 int config_parse(const char *config_file);
 void config_cleanup(void);
